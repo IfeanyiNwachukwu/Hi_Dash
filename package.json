@@ -1,0 +1,23 @@
+{
+  "name": "Hi_Dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IfeanyiNwachukwu/Hi_Dash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IfeanyiNwachukwu/Hi_Dash/issues"
+  },
+  "homepage": "https://github.com/IfeanyiNwachukwu/Hi_Dash#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
